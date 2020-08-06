@@ -2,7 +2,4 @@
 Just another repository
 Hi Humans!
 
-Hubot here.I like Node.js and Coffeescript
-
-
-BBBBB
+print('how are you:', True and False)
